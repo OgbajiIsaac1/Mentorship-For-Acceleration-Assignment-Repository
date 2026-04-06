@@ -1,0 +1,10 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Office temp files
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
